@@ -232,7 +232,3 @@ With great power comes great responsibility – use wisely and have fun out ther
 
 Respectfully yours,  
 The Dev Team 🚀
-
-## [📥 Download Arcane Odyssey Script](https://arcaneodysseydevz.github.io/arcaneodyssey/) 🌟
-
-*(Final call – grab it now and start your enhanced journey! Keyless, pastebin-ready, and packed with features.)* 🎣🛡️
